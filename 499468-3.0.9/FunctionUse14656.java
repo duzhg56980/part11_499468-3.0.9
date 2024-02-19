@@ -1,0 +1,6 @@
+import org.apache.dubbo.registry.support.DefaultProviderFirstParams;
+public class FunctionUse14656 {
+public void funcUse() {
+DefaultProviderFirstParams defaultproviderfirstparams = new DefaultProviderFirstParams();
+}
+}

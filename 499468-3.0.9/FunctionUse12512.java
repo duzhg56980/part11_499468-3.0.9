@@ -1,0 +1,6 @@
+import com.google.rpc.Status;
+public class FunctionUse12512 {
+public void funcUse() {
+Status status = new Status();
+}
+}

@@ -1,0 +1,7 @@
+import org.apache.dubbo.registry.client.OverrideInstanceAddressURL;
+public class FunctionUse14026 {
+public void funcUse() {
+OverrideInstanceAddressURL overrideinstanceaddressurl = new OverrideInstanceAddressURL();
+overrideinstanceaddressurl.addServiceParameter(null,null,null);
+}
+}

@@ -1,0 +1,7 @@
+import com.google.rpc.BadRequest;
+public class FunctionUse10617 {
+public void funcUse() {
+BadRequest badrequest = new BadRequest();
+badrequest.toBuilder();
+}
+}

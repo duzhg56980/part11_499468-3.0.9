@@ -1,0 +1,7 @@
+import org.apache.dubbo.triple.TripleWrapper.TripleResponseWrapper.Builder;
+public class FunctionUse13645 {
+public void funcUse() {
+Builder builder = new Builder();
+builder.setField(null,null);
+}
+}
